@@ -8,8 +8,8 @@ class Home extends Component {
         return (
             <div>
                 <Header/>
-                <Body/>
-                <Footer/>
+                {/*<Body/>*/}
+                {/*<Footer/>*/}
             </div>
         );
     }
