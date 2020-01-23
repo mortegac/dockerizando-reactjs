@@ -10,7 +10,7 @@ class Body extends Component {
                         <h1>Soy un BODY!</h1>
                         <hr/>
                         <p>Esto es solo una muestra de que soy un body, contenido, lo que sea, es solo de muestra para el meet up de docker</p>
-                        <Carousel/>
+                        {/*<Carousel/>*/}
                     </div>
                 </div>
             </div>
